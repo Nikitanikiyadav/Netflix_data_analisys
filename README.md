@@ -1,1 +1,1 @@
-# Netflix_data_analisys
+# Netflix_data_analysis
